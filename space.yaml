@@ -1,0 +1,2 @@
+sdk: static
+entrypoint: python app.py
