@@ -1,4 +1,4 @@
-Flask
-openai
-vaderSentiment
-python-dotenv
+flask
+transformers
+textblob
+torch
